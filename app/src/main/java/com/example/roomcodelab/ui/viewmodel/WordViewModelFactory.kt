@@ -1,4 +1,4 @@
-package com.example.roomcodelab.ui
+package com.example.roomcodelab.ui.viewmodel
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
