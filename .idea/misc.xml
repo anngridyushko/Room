@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/annbo/AndroidStudioProjects/RoomCodelab/app/src/main/res/drawable/ic_add.xml" value="0.15462962962962962" />
+        <entry key="..\:/Users/annbo/AndroidStudioProjects/RoomCodelab/app/src/main/res/drawable/rounded_button.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/annbo/AndroidStudioProjects/RoomCodelab/app/src/main/res/layout/activity_add_word.xml" value="0.4" />
         <entry key="..\:/Users/annbo/AndroidStudioProjects/RoomCodelab/app/src/main/res/layout/activity_main.xml" value="0.4" />
         <entry key="..\:/Users/annbo/AndroidStudioProjects/RoomCodelab/app/src/main/res/layout/word_card.xml" value="0.536" />
       </map>

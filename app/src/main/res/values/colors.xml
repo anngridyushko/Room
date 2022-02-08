@@ -7,4 +7,10 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="colorButton">#008577</color>
+    <color name="colorButtonDark">#00574B</color>
+    <color name="round_gradient_button_start_color">#008577</color>
+    <color name="round_gradient_button_end_color">#4A569D</color>
+
 </resources>

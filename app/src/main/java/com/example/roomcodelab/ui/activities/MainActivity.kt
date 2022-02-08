@@ -1,4 +1,4 @@
-package com.example.roomcodelab.ui
+package com.example.roomcodelab.ui.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

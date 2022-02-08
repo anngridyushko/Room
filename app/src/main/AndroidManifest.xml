@@ -3,16 +3,18 @@
     package="com.example.roomcodelab">
 
     <application
+        android:name=".ui.WordApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.RoomCodelab"
-        android:name=".ui.WordApplication">
-
+        android:theme="@style/Theme.RoomCodelab">
         <activity
-            android:name=".ui.MainActivity"
+            android:name=".ui.activities.AddWordActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ui.activities.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

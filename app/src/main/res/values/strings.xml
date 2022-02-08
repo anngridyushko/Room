@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">RoomCodelab</string>
-    <string name="add_word">add word</string>
+    <string name="add_word">Add word</string>
+    <string name="hint_word">Enter a word</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Empty word</string>
 </resources>
